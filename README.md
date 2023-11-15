@@ -25,7 +25,7 @@ The most challenging part of this should be taking a geocoded list of drivers an
 We will also need to geocode the addresses, but there are many samples out there on how to accomplish this with many tools or APIs. If your team feels overwhelmed with the most challenging part of this create a list/array of the data from the non-geocoded data and get the Latitude and Longitude for hte address provided. Bonus points for using the driver-partial-geocoded.csv sample file and only making calls to geocode an address if the latitude and longitude are not already known.
 
 ## Collaboration
-Please clone this repo, branch for either of the challenges, and push your solutions back to the repo so that we may share the results of this hackathon with the developers who will work on the final solution for Tikkun Farms.
+Please fork this repo, complete either of the challenges, and create a PR for your solutions back to the repo so that we may share the results of this hackathon with the developers who will work on the final solution for Tikkun Farms.
 
 ## APIs and Services that may be explored
 ### Google Maps/GCP
